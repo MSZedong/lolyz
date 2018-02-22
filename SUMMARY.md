@@ -36,15 +36,22 @@
         * [德玛西亚的传说](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo.md)
           * [德玛西亚皇子-嘉文四世](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/de-ma-xi-ya-huang-5b50-jia-wen-si-shi.md)
             * [象牙，乌木，赤玉](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/de-ma-xi-ya-huang-5b50-jia-wen-si-shi/xiang-ya-ff0c-wu-mu-ff0c-chi-yu.md)
-          * 龙血武姬-希瓦娜
+          * [龙血武姬-希瓦娜](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/long-xie-wu-59ec-xi-wa-nuo.md)
             * [长翅膀的怪兽](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/chang-chi-bang-de-guai-shou.md)
           * [暗夜猎手-薇恩](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/an-ye-xi-624b-wei-en.md)
             * [物以类聚](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/an-ye-xi-624b-wei-en/wu-yi-lei-ju.md)
           * [德玛西亚之翼-奎因](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/de-ma-xi-ya-zhi-7ffc-kui-yin.md)
             * [求生七诫](regions/de-ma-xi-ya/de-ma-xi-ya-de-chuan-shuo/de-ma-xi-ya-zhi-7ffc-kui-yin/qiu-sheng-qi-jie.md)
-        * [正义巨像](regions/de-ma-xi-ya/zheng-yi-ju-xiang.md)
+        * [正义巨像-加里奥](regions/de-ma-xi-ya/zheng-yi-ju-xiang.md)
           * [血肉与石头](regions/de-ma-xi-ya/zheng-yi-ju-xiang/xie-rou-yu-shi-tou.md)
-          * 英雄梦醒
+          * [英雄梦醒](regions/de-ma-xi-ya/zheng-yi-ju-xiang/ying-xiong-meng-xing.md)
+        * [无双剑姬-菲奥娜](regions/de-ma-xi-ya/wu-shuang-jian-59ec-fei-ao-nuo.md)
+          * [荣耀之事](regions/de-ma-xi-ya/wu-shuang-jian-59ec-fei-ao-nuo/rong-yao-zhi-shi.md)
+        * [圣锤之毅-波比](regions/de-ma-xi-ya/sheng-chui-zhi-6bc5-bo-bi.md)
+          * [屠魔人](regions/de-ma-xi-ya/sheng-chui-zhi-6bc5-bo-bi/tu-mo-ren.md)
+        * [琴瑟仙女-娑娜](regions/de-ma-xi-ya/qin-se-xian-5973-suo-nuo.md)
+        * [圣枪游侠-卢锡安](regions/de-ma-xi-ya/sheng-qiang-you-4fa0-lu-xi-an.md)
+        * [德邦总管-赵信](regions/de-ma-xi-ya/de-bang-zong-7ba1-zhao-xin.md)
     * 弗雷尔卓德
     * 恕瑞玛
     * 虚空之地
